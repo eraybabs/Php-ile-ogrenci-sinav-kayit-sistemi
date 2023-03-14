@@ -1,0 +1,74 @@
+[
+  {
+    "sinif": 101,
+    "kapasite": 38
+  },
+  {
+    "sinif": 102,
+    "kapasite": 40
+  },
+  {
+    "sinif": 103,
+    "kapasite": 34
+  },
+  {
+    "sinif": 104,
+    "kapasite": 30
+  },
+  {
+    "sinif": 105,
+    "kapasite": 40
+  },
+  {
+    "sinif": 106,
+    "kapasite": 24
+  },
+  {
+    "sinif": 107,
+    "kapasite": 24
+  },
+  {
+    "sinif": 108,
+    "kapasite": 30
+  },
+  {
+    "sinif": 109,
+    "kapasite": 34
+  },
+  {
+    "sinif": 201,
+    "kapasite": 38
+  },
+  {
+    "sinif": 202,
+    "kapasite": 40
+  },
+  {
+    "sinif": 203,
+    "kapasite": 34
+  },
+  {
+    "sinif": 204,
+    "kapasite": 20
+  },
+  {
+    "sinif": 205,
+    "kapasite": 20
+  },
+  {
+    "sinif": 206,
+    "kapasite": 50
+  },
+  {
+    "sinif": 207,
+    "kapasite": 44
+  },
+  {
+    "sinif": 208,
+    "kapasite": 22
+  },
+  {
+    "sinif": 209,
+    "kapasite": 20
+  }
+]
